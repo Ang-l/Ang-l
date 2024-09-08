@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=Ang-l&show_icons=true&theme=transparent)
 
+- ![Visitor Count](https://profile-counter.glitch.me/Ang-l/count.svg)
+- ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/vue2-3776AB?style=for-the-badge&logo=vue2&logoColor=white)![](https://img.shields.io/badge/vue3-3776AB?style=for-the-badge&logo=vue3&logoColor=white)
+- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ang-l)
+- ![](https://github-readme-stats.vercel.app/api?username=Ang-l&show_icons=true&theme=transparent)
