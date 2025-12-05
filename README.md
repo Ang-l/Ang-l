@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 
 😄
 
-<a href="https://github.com/Ang-l/fastapi-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ang-l&repo=fastapi-template" />
-</a>
 <a href="https://github.com/Ang-l/captcha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ang-l&repo=captcha" />
 </a>
