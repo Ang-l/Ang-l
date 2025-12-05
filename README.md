@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/vue2-3776AB?style=for-the-badge&logo=vue2&logoColor=white)![](https://img.shields.io/badge/vue3-3776AB?style=for-the-badge&logo=vue3&logoColor=white)
 -->
 
-😄
+😄 ok.
 
 <a href="https://github.com/Ang-l/captcha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ang-l&repo=captcha" />
